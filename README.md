@@ -2,10 +2,10 @@
 
 **Class:** OM 620 — Tools & Technologies for Analytics  
 **Student:** Brenda Raquel Laime Jalil  
-**Repo:** `om620-assignments`
+**Repo:** `om620_assignments`
 
 **Live e-portfolio page:** https://brendalaime.github.io/assignments/  
-**This repo:** https://github.com/brendalaime/om620-assignments
+**This repo:** https://github.com/brendalaime/om620_assignments
 
 This repository is my working showcase for **Assignment 1** (data cleaning & exploration) and **Assignment 2** (safety stock analysis) using our group’s transactional dataset.
 
