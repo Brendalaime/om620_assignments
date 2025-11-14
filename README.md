@@ -7,6 +7,9 @@
 **Live e-portfolio page:** https://brendalaime.github.io
 
 **This repo:** [https://github.com/brendalaime/om620-assignments/](https://brendalaime.github.io/om620-assignments/)
+**Download notebook:**  
+[om620_a1_a2.ipynb (raw)](https://raw.githubusercontent.com/brendalaime/om620-assignments/main/notebooks/om620_a1_a2.ipynb)
+
 
 This repository is my working showcase for **Assignment 1** (data cleaning & exploration) and **Assignment 2** (safety stock analysis) using our group’s transactional dataset.
 
